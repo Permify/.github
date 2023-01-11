@@ -24,8 +24,8 @@
 
 * [permify-node](https://github.com/Permify/permify-node) - Node Client
 * [permify-go](https://github.com/Permify/permify-go) - Go Client
-* [permify-validate-action](https://www.reddit.com/r/refine) - Permity VS Code extension
-* [vscode-perm](https://www.reddit.com/r/refine) - Permity VS Code extension
+* [permify-validate-action](https://github.com/Permify/permify-validate-action) - Permity VS Code extension
+* [vscode-perm](https://github.com/Permify/vscode-perm) - Permity VS Code extension
 
 ## Community Packages ❤️
 
