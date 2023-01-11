@@ -18,7 +18,7 @@
 
 ## Main
 
-* [permify](https://github.com/Permify/permify)
+* [Permify](https://github.com/Permify/permify)
 
 ## Packages
 
