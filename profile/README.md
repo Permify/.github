@@ -26,7 +26,7 @@
 
 * [permify-node](https://github.com/Permify/permify-node) - Node Client
 * [permify-go](https://github.com/Permify/permify-go) - Go Client
-* [permify-validate-action](https://github.com/Permify/permify-validate-action) - Permity VS Code extension
+* [permify-validate-action](https://github.com/Permify/permify-validate-action) - Schema testing & validation
 * [vscode-perm](https://github.com/Permify/vscode-perm) - Permity VS Code extension
 
 ## Community Packages 💜
