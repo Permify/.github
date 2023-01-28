@@ -29,7 +29,7 @@
 * [permify-validate-action](https://github.com/Permify/permify-validate-action) - Permity VS Code extension
 * [vscode-perm](https://github.com/Permify/vscode-perm) - Permity VS Code extension
 
-## Community Packages ❤️
+## Community Packages 💜
 
 * [luco5826/Permify.AspNetCore](https://github.com/luco5826/Permify.AspNetCore) - ASP.NET Core Client
 * [bhagatpratham/team-permissions](https://github.com/bhagatpratham/team-permissions) Express.js REST implementation
