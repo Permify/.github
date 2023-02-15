@@ -20,7 +20,7 @@
 ## Main
 
 * [Permify](https://github.com/Permify/permify) - The main repository
-* [Documents](https://docs.permify.co/docs/) - Official docs of Permify
+* [Documents](https://docs.permify.co/docs/permify-overview/intro) - Official docs of Permify
 * [Playground](https://play.permify.co) - To test your authorization model in browser
 
 ## Packages
