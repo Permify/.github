@@ -33,7 +33,7 @@
 ## Community Packages 💜
 
 * [luco5826/Permify.AspNetCore](https://github.com/luco5826/Permify.AspNetCore) - ASP.NET Core Client
-* [BOVAGE/blog-rbac) - Python Flask application implementation
+* [BOVAGE/blog-rbac](https://github.com/BOVAGE/blog-rbac) - Python Flask application implementation
 * [bhagatpratham/team-permissions](https://github.com/bhagatpratham/team-permissions) Express.js REST implementation
 * [hex.pm/packages/permify](https://hex.pm/packages/permify) - Elixir Client
 * [mosamlife/zitadel-permify-integration](https://github.com/mosamlife/zitadel-permify-integration) Zitadel integration
