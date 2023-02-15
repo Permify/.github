@@ -25,15 +25,15 @@
 
 ## Packages
 
-* [permify-node](https://github.com/Permify/permify-node) - Node Client
-* [permify-go](https://github.com/Permify/permify-go) - Go Client
+* [permify-node](https://github.com/Permify/permify-node) - Node gRPC Client
+* [permify-go](https://github.com/Permify/permify-go) - Go gRPC Client
 * [permify-validate-action](https://github.com/Permify/permify-validate-action) - Schema testing & validation
 * [vscode-perm](https://github.com/Permify/vscode-perm) - Permity VS Code extension
 
 ## Community Packages 💜
 
 * [luco5826/Permify.AspNetCore](https://github.com/luco5826/Permify.AspNetCore) - ASP.NET Core Client
-* [BOVAGE/blog-rbac](https://github.com/BOVAGE/blog-rbac) - Python Flask application implementation
+* [BOVAGE/blog-rbac](https://github.com/BOVAGE/blog-rbac) - Flask application REST implementation
 * [bhagatpratham/team-permissions](https://github.com/bhagatpratham/team-permissions) Express.js REST implementation
 * [hex.pm/packages/permify](https://hex.pm/packages/permify) - Elixir Client
 * [mosamlife/zitadel-permify-integration](https://github.com/mosamlife/zitadel-permify-integration) Zitadel integration
