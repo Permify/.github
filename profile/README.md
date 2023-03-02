@@ -41,3 +41,18 @@
 ## Other Open source Libraries
 * [go-role](https://github.com/Permify/go-role) - RBAC library for GO
 * [react-role](https://github.com/Permify/react-role)  - RBAC library for React
+
+## Community & Support
+We would love to hear from you :heart:
+
+You can get immediate help on our Discord channel. This can be any kind of question-related to Permify, authorization, or authentication and identity management. We'd love to discuss anything related to access control space.
+
+For feature requests, bugs, or any improvements you can always open an issue. 
+
+### Want to Contribute? Here are the ways to contribute to Permify
+
+* **Contribute to codebase:** We're collaboratively working with our community to make Permify the best it can be! You can develop new features, fix existing issues or make third-party integrations/packages. 
+* **Improve documentation:** Alongside our codebase, documentation one of the most significant part in our open-source journey. We're trying to give the best DX possible to explain ourselfs and Permify. And you can help on that with importing resources or adding new ones.
+* **Contribute to playground:** Permify playground allows you to visualize and test your authorization logic. You can contribute to our playground by improving its user interface, fixing glitches, or adding new features.
+
+You can find more details about contributions on [CONTRIBUTING.md](https://github.com/Permify/permify/blob/master/CONTRIBUTING.md).
