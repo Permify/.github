@@ -17,20 +17,27 @@
 
 ![Value Chain Schema](https://user-images.githubusercontent.com/34595361/186108668-4c6cb98c-e777-472b-bf05-d8760add82d2.png)
 
-## Main
+### Main
 
 * [Permify](https://github.com/Permify/permify) - The main repository
 * [Documents](https://docs.permify.co/docs/permify-overview/intro) - Official docs of Permify
 * [Playground](https://play.permify.co) - To test your authorization model in browser
 
-## Packages
+### Clients
 
 * [permify-node](https://github.com/Permify/permify-node) - Node gRPC Client
 * [permify-go](https://github.com/Permify/permify-go) - Go gRPC Client
-* [permify-validate-action](https://github.com/Permify/permify-validate-action) - Schema testing & validation
+
+### Extentions
+
 * [vscode-perm](https://github.com/Permify/vscode-perm) - Permity VS Code extension
 
-## Community Packages 💜
+### CI/CD
+
+* [permify-validate-action](https://github.com/Permify/permify-validate-action) - Schema testing & validation
+* [permify-coverage-action](https://github.com/Permify/permify-coverage-action) - Schema coverage analysis
+
+### Community Packages 💜
 
 * [luco5826/Permify.AspNetCore](https://github.com/luco5826/Permify.AspNetCore) - ASP.NET Core Client
 * [BOVAGE/blog-rbac](https://github.com/BOVAGE/blog-rbac) - Flask application REST implementation
@@ -38,11 +45,11 @@
 * [hex.pm/packages/permify](https://hex.pm/packages/permify) - Elixir Client
 * [mosamlife/zitadel-permify-integration](https://github.com/mosamlife/zitadel-permify-integration) Zitadel integration
 
-## Other Open source Libraries
+### Other Open source Libraries
 * [go-role](https://github.com/Permify/go-role) - RBAC library for GO
 * [react-role](https://github.com/Permify/react-role)  - RBAC library for React
 
-## Community & Support
+### Community & Support
 We would love to hear from you :heart:
 
 You can get immediate help on our Discord channel. This can be any kind of question-related to Permify, authorization, or authentication and identity management. We'd love to discuss anything related to access control space.
