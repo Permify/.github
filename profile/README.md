@@ -17,49 +17,76 @@
 
 ![Value Chain Schema](https://user-images.githubusercontent.com/34595361/186108668-4c6cb98c-e777-472b-bf05-d8760add82d2.png)
 
-### Main
+## **Main**
 
-* [Permify](https://github.com/Permify/permify) - The main repository
-* [Documents](https://docs.permify.co/docs/permify-overview/intro) - Official docs of Permify
-* [Playground](https://play.permify.co) - To test your authorization model in browser
+Check out the following main resources to get started with Permify:
 
-### Clients
+- [**Permify**](https://github.com/Permify/permify): The main repository.
+- [**Documents**](https://docs.permify.co/docs/permify-overview/intro): The official docs of Permify.
+- [**Playground**](https://play.permify.co): A platform to test your authorization model in the browser.
 
-* [permify-node](https://github.com/Permify/permify-node) - Node gRPC Client
-* [permify-go](https://github.com/Permify/permify-go) - Go gRPC Client
+---
 
-### Extentions
+## **Clients**
 
-* [vscode-perm](https://github.com/Permify/vscode-perm) - Permity VS Code extension
+Check out our Node and Go clients:
 
-### CI/CD
+- [**permify-node**](https://github.com/Permify/permify-node): Node gRPC Client.
+- [**permify-go**](https://github.com/Permify/permify-go): Go gRPC Client.
 
-* [permify-validate-action](https://github.com/Permify/permify-validate-action) - Schema testing & validation
-* [permify-coverage-action](https://github.com/Permify/permify-coverage-action) - Schema coverage analysis
+---
 
-### Community Packages 💜
+## **Extensions**
 
-* [luco5826/Permify.AspNetCore](https://github.com/luco5826/Permify.AspNetCore) - ASP.NET Core Client
-* [BOVAGE/blog-rbac](https://github.com/BOVAGE/blog-rbac) - Flask application REST implementation
-* [bhagatpratham/team-permissions](https://github.com/bhagatpratham/team-permissions) Express.js REST implementation
-* [hex.pm/packages/permify](https://hex.pm/packages/permify) - Elixir Client
-* [mosamlife/zitadel-permify-integration](https://github.com/mosamlife/zitadel-permify-integration) Zitadel integration
+Extend your Permify experience:
 
-### Other Open source Libraries
-* [go-role](https://github.com/Permify/go-role) - RBAC library for GO
-* [react-role](https://github.com/Permify/react-role)  - RBAC library for React
+- [**vscode-perm**](https://github.com/Permify/vscode-perm): The Permify VS Code extension.
 
-### Community & Support
-We would love to hear from you :heart:
+---
 
-You can get immediate help on our Discord channel. This can be any kind of question-related to Permify, authorization, or authentication and identity management. We'd love to discuss anything related to access control space.
+## **CI/CD**
 
-For feature requests, bugs, or any improvements you can always open an issue. 
+CI/CD resources for Permify:
 
-### Want to Contribute? Here are the ways to contribute to Permify
+- [**permify-validate-action**](https://github.com/Permify/permify-validate-action): For schema testing & validation.
+- [**permify-coverage-action**](https://github.com/Permify/permify-coverage-action): For schema coverage analysis.
 
-* **Contribute to codebase:** We're collaboratively working with our community to make Permify the best it can be! You can develop new features, fix existing issues or make third-party integrations/packages. 
-* **Improve documentation:** Alongside our codebase, documentation one of the most significant part in our open-source journey. We're trying to give the best DX possible to explain ourselfs and Permify. And you can help on that with importing resources or adding new ones.
-* **Contribute to playground:** Permify playground allows you to visualize and test your authorization logic. You can contribute to our playground by improving its user interface, fixing glitches, or adding new features.
+---
 
-You can find more details about contributions on [CONTRIBUTING.md](https://github.com/Permify/permify/blob/master/CONTRIBUTING.md).
+## **Community Packages** :purple_heart:
+
+Community contributed packages and implementations:
+
+- [**luco5826/Permify.AspNetCore**](https://github.com/luco5826/Permify.AspNetCore): ASP.NET Core Client.
+- [**BOVAGE/blog-rbac**](https://github.com/BOVAGE/blog-rbac): Flask application REST implementation.
+- [**bhagatpratham/team-permissions**](https://github.com/bhagatpratham/team-permissions): Express.js REST implementation.
+- [**hex.pm/packages/permify**](https://hex.pm/packages/permify): Elixir Client.
+- [**mosamlife/zitadel-permify-integration**](https://github.com/mosamlife/zitadel-permify-integration): Zitadel integration.
+
+---
+
+## **Other Open Source Libraries**
+
+Other related open source libraries:
+
+- [**go-role**](https://github.com/Permify/go-role): RBAC library for GO.
+- [**react-role**](https://github.com/Permify/react-role): RBAC library for React.
+
+
+### **Community & Support**
+We'd love to hear from you :heart:
+
+If you need immediate assistance or have any questions related to Permify, authorization, authentication, or identity management, join us on our [Discord channel](https://discord.gg/link). We're always up for discussions on anything related to the access control domain.
+
+For feature requests, bugs, or suggestions for improvement, feel free to [open an issue](https://github.com/Permify/permify/issues).
+
+### **Want to Contribute?**
+Here's how you can contribute to Permify:
+
+* **Contribute to the codebase**: We're working together with our community to make Permify the best it can be! You can develop new features, fix existing issues, or create third-party integrations/packages. 
+
+* **Improve documentation**: Documentation plays a crucial role in our open-source journey. We strive to deliver the best developer experience possible by explaining ourselves and Permify clearly. Your contributions to improve existing documentation or add new resources are very much welcome.
+
+* **Contribute to the playground**: The Permify Playground allows you to visualize and test your authorization logic. You can enhance our playground by improving its user interface, fixing bugs, or adding new features.
+
+For more details about contributing, please see our [CONTRIBUTING.md](https://github.com/Permify/permify/blob/master/CONTRIBUTING.md) guide.
