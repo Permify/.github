@@ -15,7 +15,7 @@
          <a href="https://play.permify.co" target="_blank"><img src="https://img.shields.io/badge/Try-Permify%20Playground-blueviolet?style=for-the-badge" alt="Try Permify" /></a>
 </p>
 
-![Value Chain Schema](https://user-images.githubusercontent.com/34595361/186108668-4c6cb98c-e777-472b-bf05-d8760add82d2.png)
+![Value Chain Schema](https://github.com/Permify/permify/assets/39353278/06262e07-84ba-4a1c-b859-870344396600)
 
 ## **Main**
 
