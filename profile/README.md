@@ -24,7 +24,8 @@ Check out the following main resources to get started with Permify:
 - [**Permify**](https://github.com/Permify/permify): The main repository.
 - [**Documents**](https://docs.permify.co/docs/permify-overview/intro): The official docs of Permify.
 - [**Playground**](https://play.permify.co): A platform to test your authorization model in the browser.
-
+- [**Charts**](https://github.com/Permify/helm-charts): Helm charts for deploying and managing Permify in Kubernetes environments.
+  
 ---
 
 ## **Clients**
