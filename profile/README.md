@@ -22,7 +22,7 @@
 Check out the following main resources to get started with Permify:
 
 - [**Permify**](https://github.com/Permify/permify): The main repository.
-- [**Documents**](https://docs.permify.co/docs/permify-overview/intro): The official docs of Permify.
+- [**Documents**](https://docs.permify.co/permify-overview/intro): The official docs of Permify.
 - [**Playground**](https://play.permify.co): A platform to test your authorization model in the browser.
 - [**Charts**](https://github.com/Permify/helm-charts): Helm charts for deploying and managing Permify in Kubernetes environments.
   
@@ -34,6 +34,8 @@ Check out our Node and Go clients:
 
 - [**permify-node**](https://github.com/Permify/permify-node): Node gRPC Client.
 - [**permify-go**](https://github.com/Permify/permify-go): Go gRPC Client.
+- [**permify-python**](https://github.com/Permify/permify-python): Python REST Client.
+- [**permify-kavascript**](https://github.com/Permify/permify-javascript): Javascript REST Client.
 
 ---
 
