@@ -35,7 +35,7 @@ Check out our Node and Go clients:
 - [**permify-node**](https://github.com/Permify/permify-node): Node gRPC Client.
 - [**permify-go**](https://github.com/Permify/permify-go): Go gRPC Client.
 - [**permify-python**](https://github.com/Permify/permify-python): Python REST Client.
-- [**permify-kavascript**](https://github.com/Permify/permify-javascript): Javascript REST Client.
+- [**permify-javascript**](https://github.com/Permify/permify-javascript): Javascript REST Client.
 
 ---
 
