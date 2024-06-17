@@ -44,6 +44,7 @@ Check out our Node and Go clients:
 Extend your Permify experience:
 
 - [**vscode-perm**](https://github.com/Permify/vscode-perm): The Permify VS Code extension.
+- [**permify-jetbrains**](https://github.com/mallowigi/permify-jetbrains): Basic support for the Permify DSL to JetBrains IDEs
 
 ---
 
