@@ -32,10 +32,12 @@ Check out the following main resources to get started with Permify:
 
 Check out our Node and Go clients:
 
-- [**permify-node**](https://github.com/Permify/permify-node): Node gRPC Client.
-- [**permify-go**](https://github.com/Permify/permify-go): Go gRPC Client.
-- [**permify-python**](https://github.com/Permify/permify-python): Python REST Client.
-- [**permify-javascript**](https://github.com/Permify/permify-javascript): Javascript REST Client.
+- [**permify-node**](https://github.com/Permify/permify-node): gRPC available.
+- [**permify-go**](https://github.com/Permify/permify-go): gRPC available.
+- [**permify-python**](https://github.com/Permify/permify-python): gRPC and REST available.
+- [**permify-java**](https://github.com/Permify/permify-java): gRPC and REST available
+- [**permify-javascript**](https://github.com/Permify/permify-javascript): gRPC and REST available.
+- [**permify-typescript**](https://github.com/Permify/permify-typescript): gRPC and REST available.
 
 ---
 
@@ -62,6 +64,8 @@ CI/CD resources for Permify:
 Community contributed packages and implementations:
 
 - [**luco5826/Permify.AspNetCore**](https://github.com/luco5826/Permify.AspNetCore): ASP.NET Core Client.
+- [**theoriginalstove/tree-sitter-perm**](https://github.com/theoriginalstove/tree-sitter-perm): tree-sitter grammars for Perm files
+- [**theoriginalstove/perm](https://github.com/theoriginalstove/perm): Zed extension to provide syntax highlighting for perm files
 - [**BOVAGE/blog-rbac**](https://github.com/BOVAGE/blog-rbac): Flask application REST implementation.
 - [**bhagatpratham/team-permissions**](https://github.com/bhagatpratham/team-permissions): Express.js REST implementation.
 - [**hex.pm/packages/permify**](https://hex.pm/packages/permify): Elixir Client.
