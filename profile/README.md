@@ -65,7 +65,7 @@ Community contributed packages and implementations:
 
 - [**luco5826/Permify.AspNetCore**](https://github.com/luco5826/Permify.AspNetCore): ASP.NET Core Client.
 - [**theoriginalstove/tree-sitter-perm**](https://github.com/theoriginalstove/tree-sitter-perm): tree-sitter grammars for Perm files
-- [**theoriginalstove/perm](https://github.com/theoriginalstove/perm): Zed extension to provide syntax highlighting for perm files
+- [**theoriginalstove/perm**](https://github.com/theoriginalstove/perm): Zed extension to provide syntax highlighting for perm files
 - [**BOVAGE/blog-rbac**](https://github.com/BOVAGE/blog-rbac): Flask application REST implementation.
 - [**bhagatpratham/team-permissions**](https://github.com/bhagatpratham/team-permissions): Express.js REST implementation.
 - [**hex.pm/packages/permify**](https://hex.pm/packages/permify): Elixir Client.
