@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="https://permify.co/post/fusionauth-acquires-permify/" target="_blank">
+    <img width="1722" height="280" alt="github-banner" src="https://github.com/user-attachments/assets/bacac09d-3d88-4870-8d67-307ed14d603b" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
 <a href="https://www.permify.co/">
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Permify/permify/raw/master/assets/logo-permify-dark.png">
